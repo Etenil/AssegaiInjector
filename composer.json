@@ -1,0 +1,17 @@
+{
+    "name": "etenil/AssegaiInjector",
+    "description": "An event manager and dispatcher for PHP.",
+    "keywords": ["dependency injector", "service container", "assegai"],
+    "homepage": "http://github.com/Etenil/AssegaiInjector",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Guillaume 'Etenil' Pasquet",
+            "email": "boss@etenil.net",
+            "homepage": "http://etenil.net"
+        }
+    ],
+    "require": {
+    }
+}
